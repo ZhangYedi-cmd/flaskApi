@@ -1,0 +1,2 @@
+webpackJsonp([16],{"6GgM":function(e,n){},gDCj:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("router-view")],1)},staticRenderFns:[]};var c=t("VU/8")({name:"joinUsIndex"},r,!1,function(e){t("6GgM")},"data-v-cd95726c",null);n.default=c.exports}});
+//# sourceMappingURL=16.564858fd9bc04a67de3d.js.map

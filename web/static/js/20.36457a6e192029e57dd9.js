@@ -1,0 +1,2 @@
+webpackJsonp([20],{"8ya3":function(e,t){},Xto1:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]};var r=n("VU/8")({name:"locationIndex"},a,!1,function(e){n("8ya3")},"data-v-284e612a",null);t.default=r.exports}});
+//# sourceMappingURL=20.36457a6e192029e57dd9.js.map
